@@ -1,9 +1,7 @@
 Hello hello!
 Heh it was a long while ago I begun posting here! First of all, I hope you who reads this is having a nice day! the reply(this one!) might look long but, please stick with it! I have tried my very best to make it easy to read, and dont be afraid to point out any errors/inconsistencies or any questions; we are here to learn!
 
-First off, I have been taking this example from
-https://www.reddit.com/r/Steganography/comments/1geleg1/trying_to_impress_someone/
-Because, even if it looks basic(not as in the difficulty challenge but the link itself, or how I should formulate this, I thought it was a good example!)
+First off, I have been taking this example from a reddit post! I did subsequently remove my answer to that post because it was a wall of text, and I know how difficult it might be reading those.
 
 # Section 1
 to simulate it I created a file, by in Linux 
